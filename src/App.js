@@ -19,8 +19,7 @@ function App() {
       <div className="App">
         <Nabvar />
         <Switch>
-        <Route exact path="https://skm31.github.io/" component={Home} />
-        <Route exact path="https://skm31.github.io/ReactPractice/" component={Home} />
+        <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
         <Route exact path="/contact" component={Contact}/>
         <Route exact path="/service" component={Service}/>
@@ -28,7 +27,7 @@ function App() {
         <Route exact path="/users/add" component={AddUser}/>
         <Route exact path="/users/edit/:id" component={EditUser}/>
         <Route exact path="/users/:id" component={UserView}/>
-        
+        <Route component={NotFound}/>
         
         </Switch>
       </div>
