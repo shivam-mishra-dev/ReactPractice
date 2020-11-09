@@ -27,7 +27,7 @@ function App() {
         <Route exact path="/users/add" component={AddUser}/>
         <Route exact path="/users/edit/:id" component={EditUser}/>
         <Route exact path="/users/:id" component={UserView}/>
-        <Route component={NotFound}/>
+        <Route component={Home}/>
         
         </Switch>
       </div>
