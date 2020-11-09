@@ -1,6 +1,6 @@
 {
   "name": "demothree",
-  "homepage": "https://skm31.github.io/ReactPractice/",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,7 +20,7 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "web-vitals": "^0.2.4"
-  },
+  },  
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
