@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactPractice/static/css/main.47de45bc.chunk.css",
-    "main.js": "/ReactPractice/static/js/main.216ec36d.chunk.js",
-    "main.js.map": "/ReactPractice/static/js/main.216ec36d.chunk.js.map",
+    "main.js": "/ReactPractice/static/js/main.eeabef69.chunk.js",
+    "main.js.map": "/ReactPractice/static/js/main.eeabef69.chunk.js.map",
     "runtime-main.js": "/ReactPractice/static/js/runtime-main.06ea1f8a.js",
     "runtime-main.js.map": "/ReactPractice/static/js/runtime-main.06ea1f8a.js.map",
     "static/css/2.95f25948.chunk.css": "/ReactPractice/static/css/2.95f25948.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.95f25948.chunk.css",
     "static/js/2.660fc542.chunk.js",
     "static/css/main.47de45bc.chunk.css",
-    "static/js/main.216ec36d.chunk.js"
+    "static/js/main.eeabef69.chunk.js"
   ]
 }
